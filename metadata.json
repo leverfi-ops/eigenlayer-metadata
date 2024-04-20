@@ -2,6 +2,6 @@
     "name": "LeverFi",
     "website": "https://www.leverfi.io",
     "description": "https://twitter.com/LeverFi.",
-    "logo": "https://leverfi-files.vercel.app/logo.png",
+    "logo": "https://raw.githubusercontent.com/leverfi-ops/eigenlayer-metadata/main/logo.png",
     "twitter": "https://twitter.com/LeverFi"
-  }
+}
